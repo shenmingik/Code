@@ -1,0 +1,2 @@
+# Code
+leetcode and newcode
