@@ -8,13 +8,14 @@
     最后i指针就指向最后一个不为0元素的后面，把后面都赋值为0就可
 */
 #include <vector>
-
+#include <string>
 using namespace std;
 class Solution
 {
 public:
     void moveZeroes(vector<int> &nums)
     {
+        string str;
         int i = 0;
         int j = 0;
         int size = nums.size();
