@@ -1,0 +1,5 @@
+/home/ubuntu/code/Code/algorithm/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/code/Code/algorithm/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/Code/algorithm/build/src/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/code/Code/algorithm/build/src/CMakeFiles/test1.dir
+/home/ubuntu/code/Code/algorithm/build/src/CMakeFiles/edit_cache.dir
