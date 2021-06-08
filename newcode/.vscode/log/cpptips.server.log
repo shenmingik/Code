@@ -239,3 +239,279 @@
 [2021-06-08T14:20:58.778] [MARK] cpptips - getDepsInDefineJson
 [2021-06-08T14:20:58.856] [DEBUG] cpptips - success
 [2021-06-08T14:20:58.856] [INFO] cpptips - true [ 3566 ]
+[2021-06-08T14:21:33.460] [INFO] cpptips - 45 4
+[2021-06-08T14:21:33.461] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:21:33.461] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:21:33.461] [DEBUG] cpptips - Solution
+[2021-06-08T14:21:33.461] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:21:39.417] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:21:39.417] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:39.417] [MARK] cpptips - Analyse
+[2021-06-08T14:21:39.418] [MARK] cpptips - Analyse
+[2021-06-08T14:21:39.418] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:39.419] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:39.419] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:39.419] [DEBUG] cpptips - begin getDepsInDefineJson
+[2021-06-08T14:21:39.419] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:21:39.419] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:21:39.586] [INFO] cpptips - NC8.cpp
+[2021-06-08T14:21:39.586] [DEBUG] cpptips - debug: file:///home/ubuntu/code/Code/newcode/NC8.cpp /home/ubuntu/code/Code/newcode/ NC8.cpp
+[2021-06-08T14:21:39.586] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:21:39.586] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:39.587] [MARK] cpptips - Analyse
+[2021-06-08T14:21:39.587] [MARK] cpptips - Analyse
+[2021-06-08T14:21:39.587] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:39.587] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:39.587] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:39.673] [INFO] cpptips - {"changes":[{"uri":"file:///home/ubuntu/code/Code/newcode/NC8.cpp","type":1}]}
+[2021-06-08T14:21:39.673] [INFO] cpptips - Set { 'file:///home/ubuntu/code/Code/newcode/NC8.cpp' }
+[2021-06-08T14:21:39.786] [DEBUG] cpptips - reloadOneIncludeFileCallBack: success
+[2021-06-08T14:21:40.870] [DEBUG] cpptips - success
+[2021-06-08T14:21:40.870] [INFO] cpptips - true [ 3567 ]
+[2021-06-08T14:21:41.470] [DEBUG] cpptips - onCompletion file:///home/ubuntu/code/Code/newcode/NC8.cpp
+[2021-06-08T14:21:41.601] [INFO] cpptips - {"changes":[{"uri":"file:///home/ubuntu/code/Code/newcode/.vscode/.git/c55ca4b98344a2752a06dd1ecd18feb3_NC8.cpp","type":1}]}
+[2021-06-08T14:21:41.602] [INFO] cpptips - Set {}
+[2021-06-08T14:21:41.608] [DEBUG] cpptips - onCompletion file:///home/ubuntu/code/Code/newcode/NC8.cpp
+[2021-06-08T14:21:41.979] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:21:41.979] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:41.980] [MARK] cpptips - Analyse
+[2021-06-08T14:21:41.980] [MARK] cpptips - Analyse
+[2021-06-08T14:21:41.980] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:41.980] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:41.981] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:50.104] [DEBUG] cpptips - reloadOneIncludeFileCallBack: success
+[2021-06-08T14:21:50.260] [INFO] cpptips - {"changes":[{"uri":"file:///home/ubuntu/code/Code/newcode/NC8.cpp","type":2}]}
+[2021-06-08T14:21:50.260] [INFO] cpptips - Set {}
+[2021-06-08T14:21:50.514] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:21:50.515] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:50.515] [MARK] cpptips - Analyse
+[2021-06-08T14:21:50.515] [MARK] cpptips - Analyse
+[2021-06-08T14:21:50.515] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:50.515] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:21:50.515] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:21:50.874] [DEBUG] cpptips - success
+[2021-06-08T14:21:50.874] [INFO] cpptips - true [ 3567 ]
+[2021-06-08T14:22:03.335] [DEBUG] cpptips - pos: 2 1
+[2021-06-08T14:22:03.335] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:03.335] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:03.335] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:06.075] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:22:06.076] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:06.076] [MARK] cpptips - Analyse
+[2021-06-08T14:22:06.076] [MARK] cpptips - Analyse
+[2021-06-08T14:22:06.076] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:06.076] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:06.076] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:12.747] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:22:12.747] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:12.747] [MARK] cpptips - Analyse
+[2021-06-08T14:22:12.747] [MARK] cpptips - Analyse
+[2021-06-08T14:22:12.748] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:12.748] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:12.748] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:14.071] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:22:14.071] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:14.071] [MARK] cpptips - Analyse
+[2021-06-08T14:22:14.072] [MARK] cpptips - Analyse
+[2021-06-08T14:22:14.072] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:14.072] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:14.072] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:19.319] [INFO] cpptips - 31 24
+[2021-06-08T14:22:19.319] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:19.319] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:19.321] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:20.135] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:22:20.135] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:20.135] [MARK] cpptips - Analyse
+[2021-06-08T14:22:20.137] [MARK] cpptips - Analyse
+[2021-06-08T14:22:20.137] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:20.137] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:20.137] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:20.137] [DEBUG] cpptips - begin getDepsInDefineJson
+[2021-06-08T14:22:20.137] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:22:20.137] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:22:21.631] [INFO] cpptips - 11 1
+[2021-06-08T14:22:21.631] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:21.631] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:21.632] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:22.288] [INFO] cpptips - 11 1
+[2021-06-08T14:22:22.289] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:22.289] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:22.289] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:23.049] [INFO] cpptips - 10 1
+[2021-06-08T14:22:23.049] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:23.049] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:23.050] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:23.563] [INFO] cpptips - 9 2
+[2021-06-08T14:22:23.563] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:23.563] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:23.564] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:24.065] [INFO] cpptips - 8 2
+[2021-06-08T14:22:24.065] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:24.065] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:24.065] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:27.637] [DEBUG] cpptips - reloadOneIncludeFileCallBack: success
+[2021-06-08T14:22:27.760] [INFO] cpptips - {"changes":[{"uri":"file:///home/ubuntu/code/Code/newcode/NC8.cpp","type":2}]}
+[2021-06-08T14:22:27.761] [INFO] cpptips - Set {}
+[2021-06-08T14:22:27.898] [DEBUG] cpptips - success
+[2021-06-08T14:22:27.898] [INFO] cpptips - true [ 3567 ]
+[2021-06-08T14:22:28.039] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:22:28.039] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:28.040] [MARK] cpptips - Analyse
+[2021-06-08T14:22:28.041] [MARK] cpptips - Analyse
+[2021-06-08T14:22:28.041] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:28.041] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:28.042] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:28.042] [DEBUG] cpptips - begin getDepsInDefineJson
+[2021-06-08T14:22:28.042] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:22:28.042] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:22:31.306] [INFO] cpptips - 5 5
+[2021-06-08T14:22:31.306] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:31.306] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:31.307] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:33.403] [DEBUG] cpptips - pos: 7 5
+[2021-06-08T14:22:33.404] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:33.404] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:33.404] [DEBUG] cpptips - linecode: incl
+[2021-06-08T14:22:33.404] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:33.404] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:33.405] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:33.408] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:33.408] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:33.408] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:34.174] [DEBUG] cpptips - pos: 7 9
+[2021-06-08T14:22:34.174] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:34.174] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:34.174] [DEBUG] cpptips - linecode: include
+[2021-06-08T14:22:34.174] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:34.174] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:34.174] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:34.177] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:34.177] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:34.177] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:36.660] [DEBUG] cpptips - pos: 8 1
+[2021-06-08T14:22:36.660] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:36.660] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:36.660] [DEBUG] cpptips - linecode: u
+[2021-06-08T14:22:36.660] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:36.661] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:36.661] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:36.664] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:36.664] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:36.665] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:37.042] [DEBUG] cpptips - pos: 8 2
+[2021-06-08T14:22:37.043] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:37.043] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:37.043] [DEBUG] cpptips - linecode: us
+[2021-06-08T14:22:37.043] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:37.043] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:37.043] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:37.045] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:37.045] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:37.045] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:37.190] [DEBUG] cpptips - pos: 8 3
+[2021-06-08T14:22:37.190] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:37.190] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:37.190] [DEBUG] cpptips - linecode: usi
+[2021-06-08T14:22:37.190] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:37.190] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:37.190] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:37.192] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:37.192] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:37.192] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:37.827] [DEBUG] cpptips - pos: 8 6
+[2021-06-08T14:22:37.827] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:37.827] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:37.827] [DEBUG] cpptips - linecode: using
+[2021-06-08T14:22:37.827] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:37.827] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:37.827] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:37.830] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:37.830] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:37.830] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:38.036] [DEBUG] cpptips - pos: 8 7
+[2021-06-08T14:22:38.036] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:38.036] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:38.036] [DEBUG] cpptips - linecode: n
+[2021-06-08T14:22:38.036] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:38.036] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:38.036] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:38.039] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:38.039] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:38.039] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:38.179] [DEBUG] cpptips - pos: 8 8
+[2021-06-08T14:22:38.179] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:38.179] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:38.179] [DEBUG] cpptips - linecode: na
+[2021-06-08T14:22:38.179] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:38.179] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:38.180] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:38.182] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:38.182] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:38.182] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:40.306] [DEBUG] cpptips - pos: 8 16
+[2021-06-08T14:22:40.306] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:40.306] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:40.306] [DEBUG] cpptips - linecode: namespace
+[2021-06-08T14:22:40.306] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:40.306] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:40.307] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:40.308] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:40.308] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:40.308] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:40.513] [DEBUG] cpptips - pos: 8 17
+[2021-06-08T14:22:40.513] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:40.513] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:40.513] [DEBUG] cpptips - linecode: s
+[2021-06-08T14:22:40.513] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:40.513] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:40.514] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:40.516] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:40.517] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:40.517] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:40.616] [DEBUG] cpptips - pos: 8 18
+[2021-06-08T14:22:40.616] [DEBUG] cpptips - begin preKeyWordSearch
+[2021-06-08T14:22:40.616] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:40.616] [DEBUG] cpptips - linecode: st
+[2021-06-08T14:22:40.616] [DEBUG] cpptips - begin searchKeyWord
+[2021-06-08T14:22:40.616] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:40.616] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:40.618] [MARK] cpptips - freezFindAllByPreKeyword
+[2021-06-08T14:22:40.618] [MARK] cpptips - searchKeyWord
+[2021-06-08T14:22:40.618] [MARK] cpptips - preKeyWordSearch
+[2021-06-08T14:22:42.750] [DEBUG] cpptips - begin getDocumentTree
+[2021-06-08T14:22:42.751] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:42.751] [MARK] cpptips - Analyse
+[2021-06-08T14:22:42.752] [MARK] cpptips - Analyse
+[2021-06-08T14:22:42.752] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:42.753] [MARK] cpptips - getDocumentStruct
+[2021-06-08T14:22:42.754] [MARK] cpptips - getDocumentTree
+[2021-06-08T14:22:42.754] [DEBUG] cpptips - begin getDepsInDefineJson
+[2021-06-08T14:22:42.754] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:22:42.757] [MARK] cpptips - getDepsInDefineJson
+[2021-06-08T14:22:43.068] [DEBUG] cpptips - reloadOneIncludeFileCallBack: success
+[2021-06-08T14:22:43.232] [INFO] cpptips - {"changes":[{"uri":"file:///home/ubuntu/code/Code/newcode/NC8.cpp","type":2}]}
+[2021-06-08T14:22:43.233] [INFO] cpptips - Set {}
+[2021-06-08T14:22:43.913] [DEBUG] cpptips - success
+[2021-06-08T14:22:43.913] [INFO] cpptips - true [
+  2147, 2237, 2688, 2751, 2686, 2666, 2665, 2687, 2703, 2149,
+  2163, 2265, 2248, 2120, 2143, 2731, 2739, 2336, 2595, 2674,
+  2680, 2681, 2682, 2740, 2711, 2121, 2144, 2712, 2154, 2156,
+  2168, 2312, 2615, 2325, 2730, 2671, 2196, 2327, 2604, 2261,
+  2105, 2128, 2117, 2140, 2736, 2744, 2597, 2617, 2727, 2684,
+  2152, 2169, 2661, 2195, 2155, 2258, 2257, 2254, 2250, 2249,
+  2256, 2255, 2011, 2298, 2749, 2735, 2710, 2222, 2266, 2763,
+  2657, 2253, 2251, 2252, 2259, 2230, 1984, 2228, 2207, 2628,
+  2018, 2647, 2206, 2627, 2151, 2167, 2239, 2608, 2328, 2226,
+  2260, 2320, 2310, 2690, 2769,  174, 2172, 2798,  160, 1622,
+  ... 198 more items
+]
+[2021-06-08T14:22:44.597] [INFO] cpptips - 12 25
+[2021-06-08T14:22:44.597] [DEBUG] cpptips - begin getDefinePoint
+[2021-06-08T14:22:44.597] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:22:44.598] [INFO] cpptips - filepath: /home/ubuntu/.vscode-server/extensions/widyhu.cpptips-0.4.14/data/usr/include/c++/4.8.2/bits/ios_base.h
+[2021-06-08T14:22:44.599] [INFO] cpptips - filepath: /home/ubuntu/.vscode-server/extensions/widyhu.cpptips-0.4.14/data/usr/include/c++/4.8.2/bits/ios_base.h
+[2021-06-08T14:22:44.599] [INFO] cpptips - filepath: /home/ubuntu/.vscode-server/extensions/widyhu.cpptips-0.4.14/data/usr/include/c++/4.8.2/bits/ios_base.h
+[2021-06-08T14:22:44.633] [MARK] cpptips - getDefinePoint
+[2021-06-08T14:23:41.615] [INFO] cpptips - {"changes":[{"uri":"file:///home/ubuntu/code/Code/newcode/.vscode/.git/c55ca4b98344a2752a06dd1ecd18feb3_NC8.cpp","type":2}]}
+[2021-06-08T14:23:41.615] [INFO] cpptips - Set {}
